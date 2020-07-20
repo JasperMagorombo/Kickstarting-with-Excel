@@ -15,6 +15,8 @@ The data set suggests that kickstarter projects launched in May and June are mor
 ### Analysis of Outcomes Based on Goals
 The data shows that the most succesfull campaigns were launched with goals between $1000-$4999 with a success rate of roughly 66%. The success rate for projects with goals above $5000 is below %50. The date seems to suggest that kickstarter is a platform that works best for smaller less capital intensive projects. 
   
+![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+  
 ### Challenges and Difficulties Encountered
 
 ## Results
