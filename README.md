@@ -18,6 +18,7 @@ The data shows that the most succesfull campaigns were launched with goals betwe
 ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
   
 ### Challenges and Difficulties Encountered
+While creating the outcomes based on goals worksheet I learned that when pastinging forumulas cell locations are relative to the destination cell. This made my aproach to create a data table take a little bit longer.
 
 ## Results
 
