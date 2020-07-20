@@ -7,7 +7,7 @@ To visualize campaign outcomes based on their launch dates and their funding goa
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+The data set shows that kickstarter projects launched in May and June were likely to have a higher chance of success, as roughly 68% of campaigns launched in May were successful and 65% respectively in June.
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
