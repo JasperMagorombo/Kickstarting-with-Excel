@@ -21,11 +21,13 @@ The data shows that the most succesfull campaigns were launched with goals betwe
 While creating the outcomes based on goals worksheet I learned that when pastinging forumulas cell locations are relative to the destination cell. This made my aproach to create a data table take a little bit longer.
 
 ## Results
+- We can conclude based on the data that for the highest chance of success a campaign should consider launching between the months of May and June.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Based on the data I would be hesitant to launch a campign in the fall or winter, campaigns launced in December have a near 50% failure rate.
 
-- What can you conclude about the Outcomes based on Goals?
+- The insight gained on my analysis of the data suggests that Kickstarter is an ideal tool to secure small amounts of funding, while projects with bigger budgets are more than likely to be unsuccessful.
 
-- What are some limitations of this dataset?
+- It has to be stated that this data set ranges campaigns launced from the year 2009 and spanning through 2017. The data is dated at this point and new trends may have emerged within the 3 year timespan from now and 2017. 
 
-- What are some other possible tables and/or graphs that we could create?
+- Out of my own personal curiosity I would like to create a graph of worldwide games campaigns and compare the US's performance
+
